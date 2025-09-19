@@ -1,1 +1,4 @@
 trying rebase 
+
+ git fetch origin
+ git rebase
